@@ -99,7 +99,3 @@ Total Emissions: 2981.0 grams
 Emissions Saved: 2541.0 grams
 
 Cumulative Emissions Saved: 2541.0 grams
-
-
-
-"# Project" 
